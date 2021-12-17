@@ -1,4 +1,4 @@
-![This is an image](https://github.com/CagriKaradeniz/Voronoi-Diagram-with-pygame-for-Football-pitch/blob/main/IMG_20211217_102855.jpg?raw=true)
+![This is an image](https://github.com/CagriKaradeniz/Voronoi-Diagram-with-pygame-for-Football-pitch/blob/main/Voronoi_pitch.PNG?raw=true)
 
 # Voronoi-Diagram-with-pygame-for-Football-pitch
 Voronoi Diagram analysis of a football match with pyhame
